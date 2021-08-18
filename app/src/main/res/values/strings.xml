@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="text1">Welcome to Video Player</string>
+    <string name="text2">Give access to your gallery</string>
+    <string name="text3"><b>Created By</b></string>
+    <string name="text4"><b>Pavan P 1JS18CS101</b></string>
+    <string name="text5"><b>SUMUKH S 1JS18CS165</b></string>
+</resources>
